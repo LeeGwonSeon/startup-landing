@@ -7,9 +7,13 @@ import Footer from './components/Footer'
 function App() {
 
   return (
-    <>
-      
-    </>
+    <div className='min-h-screen'>
+      <Header />
+      <Hero />
+      <Features />
+      <Pricing />
+      <Footer />
+    </div>
   )
 }
 
