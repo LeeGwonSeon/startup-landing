@@ -13,6 +13,7 @@ function App() {
       <Features />
       <Pricing />
       <Footer />
+      <Footer />
     </div>
   )
 }
